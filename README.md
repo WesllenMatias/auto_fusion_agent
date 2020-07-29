@@ -5,15 +5,15 @@
 
 ## Passo 1:
 
-shell` 
+```shell
 
 chmod +x install_fusion.sh
-`
+```
 
 ## Passo 2:
 
-shell`
+```shell
 ./install_fusion.sh
-` 
+```
 
 ## Finish
